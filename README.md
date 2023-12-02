@@ -1,5 +1,7 @@
 # Admin Dashboard
 
+Deployed at : [https://admin-dashboard-hirequotient-coral.vercel.app/](https://admin-dashboard-hirequotient-coral.vercel.app/)
+
 ## How to run the project
 
 1. Clone the repository
