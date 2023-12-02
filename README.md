@@ -1,3 +1,12 @@
+# Admin Dashboard
+
+## How to run the project
+
+1. Clone the repository
+2. Run `npm install`
+3. Run `npm run dev`
+4. Open `http://localhost:5173` in your browser
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
